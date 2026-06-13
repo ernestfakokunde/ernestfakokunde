@@ -30,4 +30,4 @@ Software Engineer & Solana Smart Contract Developer
 
 ## Links
 Portfolio: https://ernest-fakokunde-ayodele.vercel.app
-LinkedIn: ...
+LinkedIn: https://linkedin.com/in/ernest-fakokunde-53713a336a
